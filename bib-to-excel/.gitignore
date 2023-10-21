@@ -2,3 +2,4 @@
 *.xlsx
 *.bib
 *.txt
+__pycache__
